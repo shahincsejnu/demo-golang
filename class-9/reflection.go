@@ -68,3 +68,17 @@ package main
 // 	}
 // 	helper([]Student{stu1})
 // }
+
+// func main() {
+// 	x := 20
+
+// 	val := reflect.ValueOf(&x)
+
+// 	fmt.Println(val.Elem())
+
+// 	if val.Elem().CanSet() {
+// 		val.Elem().Set(reflect.ValueOf(30))
+
+// 		fmt.Println(reflect.ValueOf(x))
+// 	}
+// }
