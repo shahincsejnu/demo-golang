@@ -1,0 +1,5 @@
+{{- $value := . -}}
+The struct is: {{ $value }}
+{{ range $name := .Names -}}
+This is Mr. {{ $name }}. He is a great guy, be like Mr. {{ $name }}
+{{ end }}
