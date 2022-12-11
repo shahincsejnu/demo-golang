@@ -1,0 +1,22 @@
+[
+    {
+        "Name": "Mr X",
+        "Role": "SWE",
+        "ID": 101,
+        "Male": true,
+        "Profiles": {
+            "Linkdedin": "/mr-x",
+            "FB": "/mr-x"
+        },
+        "Skills": ["Golang", "Docker", true],
+        "Marital Status": null
+    },
+
+    {
+
+    },
+
+    {
+
+    }
+]
