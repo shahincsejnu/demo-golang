@@ -10,6 +10,7 @@ Create our project’s layers
 
 
 # Resources
+- https://refactoring.guru/design-patterns
 - https://github.com/golang-migrate/migrate/blob/master/database/postgres/TUTORIAL.md
 - https://github.com/kyleconroy/sqlc
 - https://www.freecodecamp.org/news/solid-principles-for-programming-and-software-design/
